@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="your-cool-animation.gif" alt="animated intro" />
+</p>
 <h1 align="center">🤖 Hariharan Thirumoorthy</h1>
 <h3 align="center">🎓 MSc Artificial Intelligence | 👨‍💻 AI/ML Engineer</h3>
 <p align="center">
@@ -8,9 +11,7 @@
   <a href="#">Resume</a>
 </p>
 
-<p align="center">
-  <img src="your-cool-animation.gif" alt="animated intro" />
-</p>
+
 
 
 # 👋 Hi, I'm Hariharan Thirumoorthy
