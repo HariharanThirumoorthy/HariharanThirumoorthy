@@ -7,6 +7,12 @@
   <a href="https://linkedin.com/in/hariharan-thirumoorthy">LinkedIn</a> • 
   <a href="#">Resume</a>
 </p>
+
+<p align="center">
+  <img src="your-cool-animation.gif" alt="animated intro" />
+</p>
+
+
 # 👋 Hi, I'm Hariharan Thirumoorthy
 
 🎓 MSc in Artificial Intelligence (UK) | BCA in AI (India)  
