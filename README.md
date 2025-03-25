@@ -1,4 +1,12 @@
-<pre> ``` █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ █ 🤖 Hariharan Thirumoorthy █ █ 🎓 MSc Artificial Intelligence (UK) █ █ 👨‍💻 AI/ML Engineer █ █ 🧠 Deep Learning | NLP | CV █ █ 🛠️ Python | PyTorch | TensorFlow █ █ 🔗 GitHub | LinkedIn | Resume Below █ █ 🚀 Building AI to solve real-world █ █ problems with passion 💡 █ █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█ ``` </pre>
+<h1 align="center">🤖 Hariharan Thirumoorthy</h1>
+<h3 align="center">🎓 MSc Artificial Intelligence | 👨‍💻 AI/ML Engineer</h3>
+<p align="center">
+  🧠 Deep Learning • NLP • Computer Vision <br>
+  🛠️ Python • PyTorch • TensorFlow • OpenCV <br>
+  🔗 <a href="https://github.com/HariharanThirumoorthy">GitHub</a> • 
+  <a href="https://linkedin.com/in/hariharan-thirumoorthy">LinkedIn</a> • 
+  <a href="#">Resume</a>
+</p>
 # 👋 Hi, I'm Hariharan Thirumoorthy
 
 🎓 MSc in Artificial Intelligence (UK) | BCA in AI (India)  
