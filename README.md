@@ -1,37 +1,44 @@
-![Snake animation - dark](https://github.com/HariharanThirumoorthy/HariharanThirumoorthy/blob/output/github-contribution-grid-snake-dark.svg)
-
+<h1 align="center">Hi 👋, I'm Hariharan Thirumoorthy</h1>
 
 <p align="center">
-  <img src="your-cool-animation.gif" alt="animated intro" />
-</p>
-<h1 align="center">🤖 Hariharan Thirumoorthy</h1>
-<h3 align="center">🎓 MSc Artificial Intelligence | 👨‍💻 AI/ML Engineer</h3>
-<p align="center">
-  🧠 Deep Learning • NLP • Computer Vision <br>
-  🛠️ Python • PyTorch • TensorFlow • OpenCV <br>
-  🔗 <a href="https://github.com/HariharanThirumoorthy">GitHub</a> • 
-  <a href="https://linkedin.com/in/hariharan-thirumoorthy">LinkedIn</a> • 
-  <a href="#">Resume</a>
+  🎓 MSc Artificial Intelligence (UK) &nbsp;|&nbsp; 👨‍💻 AI/ML Engineer &nbsp;|&nbsp; 🤖 Deep Learning • NLP • CV  
 </p>
 
+---
 
+### 💡 About Me
 
+- 🔭 I’m currently working on **Aspect-Based Sentiment Analysis using Deep Learning & XAI**
+- 🧠 Passionate about solving real-world problems with **AI, NLP, and Computer Vision**
+- 🌱 Currently diving deeper into **LLMs, MLOps**, and **Generative AI**
+- 💼 Open to roles in **AI/ML, NLP, or Data Science**
 
-# 👋 Hi, I'm Hariharan Thirumoorthy
+---
 
-🎓 MSc in Artificial Intelligence (UK) | BCA in AI (India)  
-💼 AI/ML Engineer | Passionate about Deep Learning, NLP & Computer Vision  
-🌱 Currently working on real-world AI projects & explainable ML  
-📫 Reach me at: harimoorthy160@gmail.com  
-🌐 Portfolio coming soon!
+### 🛠️ Skills & Tools
+
+`Python` • `TensorFlow` • `PyTorch` • `YOLO` • `OpenCV` • `Flask` • `FastAPI`  
+`NLP` • `LLMs` • `BERT` • `GPT` • `MLOps` • `Docker` • `AWS` • `GitHub Actions`
+
+---
 
 ### 🚀 Projects
-- 🔍 [Tiny Object & Edge Detection](https://github.com/HariharanThirumoorthy/Tiny-Object-and-Edge-Detection-Model)
-- 🧠 [ABSA – Sentiment Analysis](https://github.com/HariharanThirumoorthy/ABSA-Deep-Learning)
-- 🎒 [Smart Study Organizer](https://github.com/HariharanThirumoorthy/SmartStudyOrganizer)
 
-### 🛠 Skills
-`Python` `TensorFlow` `PyTorch` `YOLO` `OpenCV` `NLP` `Flask` `AWS`
+- 🧠 [Aspect-Based Sentiment Analysis](https://github.com/HariharanThirumoorthy/ABSA-Deep-Learning)  
+- 📷 [Tiny Object & Edge Detection](https://github.com/HariharanThirumoorthy/Tiny-Object-and-Edge-Detection-Model)  
+- 📚 [Smart Study Organizer](https://github.com/HariharanThirumoorthy/Smart-Study-Organizer)  
 
-Let's connect on [LinkedIn](https://linkedin.com/in/hariharan-thirumoorthy) 🚀
+---
 
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hariharan-thirumoorthy)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/HariharanThirumoorthy)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/HariharanThirumoorthy/HariharanThirumoorthy/blob/output/github-contribution-grid-snake.svg)
+
+---
