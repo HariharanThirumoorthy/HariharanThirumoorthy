@@ -1,4 +1,4 @@
-![GitHub Snake](https://github.com/HariharanThirumoorthy/HariharanThirumoorthy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation - dark](https://github.com/HariharanThirumoorthy/HariharanThirumoorthy/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <p align="center">
