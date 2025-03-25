@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Hariharan Thirumoorthy
 
-<!--
-**HariharanThirumoorthy/HariharanThirumoorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Artificial Intelligence (UK) | BCA in AI (India)  
+💼 AI/ML Engineer | Passionate about Deep Learning, NLP & Computer Vision  
+🌱 Currently working on real-world AI projects & explainable ML  
+📫 Reach me at: harimoorthy160@gmail.com  
+🌐 Portfolio coming soon!
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- 🔍 [Tiny Object & Edge Detection](https://github.com/HariharanThirumoorthy/Tiny-Object-and-Edge-Detection-Model)
+- 🧠 [ABSA – Sentiment Analysis](https://github.com/HariharanThirumoorthy/ABSA-Deep-Learning)
+- 🎒 [Smart Study Organizer](https://github.com/HariharanThirumoorthy/SmartStudyOrganizer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+`Python` `TensorFlow` `PyTorch` `YOLO` `OpenCV` `NLP` `Flask` `AWS`
+
+Let's connect on [LinkedIn](https://linkedin.com/in/hariharan-thirumoorthy) 🚀
+
