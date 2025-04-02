@@ -32,7 +32,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hariharan-thirumoorthy)  
+[![LinkedIn]((https://www.linkedin.com/in/hariharan-thirumoorthy-ai))  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/HariharanThirumoorthy)
 
 ---
