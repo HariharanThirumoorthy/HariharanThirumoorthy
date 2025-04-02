@@ -32,10 +32,12 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn]((https://www.linkedin.com/in/hariharan-thirumoorthy-ai))  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/HariharanThirumoorthy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hariharan-thirumoorthy-ai)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/HariharanThirumoorthy)  
+[![Resume](https://img.shields.io/badge/Resume-red?logo=pdf)](https://drive.google.com/file/d/1kxZQ2Lg1UzyVSmbwUxFYq0DovkQ8-WmC/view?usp=sharing)
 
 ---
+
 
 ### 🐍 Contribution Snake
 
