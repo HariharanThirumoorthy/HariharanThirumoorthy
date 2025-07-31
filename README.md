@@ -33,7 +33,7 @@
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hariharan-thirumoorthy-ai) 
-[![Resume](https://img.shields.io/badge/Resume-red?logo=pdf)](https://drive.google.com/file/d/1Bu-Cpjyo6kIg6jOybeDYSlcfFNhXWoCb/view?usp=drive_link)
+[![Resume](https://drive.google.com/file/d/1ps0PGYGn1_yQbX35GFWVpZo-V6YMKf8h/view?usp=drive_link)
 
 ---
 
